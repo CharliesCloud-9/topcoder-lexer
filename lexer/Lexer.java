@@ -94,7 +94,6 @@ package lexer;
 
 public class Lexer {
 	
-	//https://www.google.com/search?q=topcoder+lexer&oq=topcoder+lexer&aqs=chrome..69i57.2926j0j1&sourceid=chrome&ie=UTF-8
 	String consume[] = {};
 	
 	public String tokenize(String token[], String input){
